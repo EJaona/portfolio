@@ -697,7 +697,7 @@ input, select, textarea {
 		.image.main {
 			display: block;
 			margin: 2.5rem 0;
-			width: 100%;
+			width: 50%;
 		}
 
 			.image.main img {
@@ -1627,6 +1627,17 @@ input, select, textarea {
 			}
 
 		}
+
+		#work{
+			display: flex;
+			flex-wrap: wrap;
+		}
+
+		.screenshots{
+			/* width: 50%; */
+		}
+
+		
 
 /* Footer */
 
